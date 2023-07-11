@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+
+/* nav section styles start */
+.nav-container {
+    display: flex;
+    height: 80px;
+    width: 100%;
+    justify-content: center;
+    gap: 400px;
+    align-items: center;
+    border-bottom: 1px solid rgba(255, 0, 0, 0.048);
+    background-color: rgba(229, 84, 115, 0.158);
+}
+
+.nav-flower-logo {
+    height: 60px;
+    width: 100%;
+}
+
+.nav-menu {
+    display: flex;
+    list-style: none;
+    font-style: italic;
+    font-size: 25px;
+    color: rgb(255, 0, 234);
+    gap: 30px;
+}
+
+.menu-link:hover {
+    cursor: pointer;
+    background-color: rgba(0, 255, 242, 0.192);
+    border-radius: 3px;
+    padding: 2px;
+}
+
+.linkup {
+    text-decoration: none;
+    color: rgb(0, 195, 255);
+}
+
+/* nav section styles end */
