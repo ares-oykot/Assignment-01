@@ -259,3 +259,27 @@
 }
 
 /* hot deal section styles end */
+
+
+
+
+/* instagram section styles start */
+.instagram-container {
+    margin: 80px 155px 100px 155px;
+    text-align: center;
+}
+
+.instagram-flower {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+
+.insta-flower {
+    width: 239px;
+    border-radius: 5px;
+}
+
+/* instagram section styles end */
