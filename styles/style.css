@@ -216,3 +216,46 @@
 }
 
 /* services section styles end */
+
+
+
+
+/* hot deal section styles start */
+.hot-deal-container {
+    display: flex;
+    width: 100%;
+    height: 50vh;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+    background: rgba(229, 84, 115, 0.05);
+}
+
+.hot-deal {
+    text-align: center;
+}
+
+.hot-deal-title {
+    color: #272727;
+    font-family: 'Lato', sans-serif;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.off {
+    color: red;
+}
+
+.hot-deal-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.tulip-flower-vase {
+    width: 220px;
+}
+
+/* hot deal section styles end */
