@@ -195,3 +195,24 @@
 }
 
 /* Our Featured Flowers section styles end */
+
+
+
+
+/* services section styles start */
+.services-container {
+    margin: 40px 155px 100px 155px;
+    display: flex;
+    justify-content: center;
+    padding: 50px 0px 50px 0px;
+    align-items: center;
+    /* text-align: center; */
+    background: rgba(39, 39, 39, 0.082);
+}
+
+.service {
+    margin: auto;
+    text-align: center;
+}
+
+/* services section styles end */
