@@ -283,3 +283,28 @@
 }
 
 /* instagram section styles end */
+
+
+
+
+/* latest deal section style starts */
+.latest-deal {
+    margin: auto;
+    margin: 20px 155px 100px 155px;
+    background-image: url('../Flower Asset/Rectangle\ 9.png');
+    border-radius: 5px;
+    height: 50vh;
+    text-align: center;
+}
+
+.deal {
+    margin-top: 40px;
+}
+
+.type-email {
+    width: 500px;
+    padding: 18px 38px;
+    border: none;
+}
+
+/* latest deal section style end */
