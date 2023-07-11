@@ -46,3 +46,58 @@
 }
 
 /* nav section styles end */
+
+
+
+
+/* banner section style start */
+.banner-container {
+    display: flex;
+    width: 100%;
+    margin: auto;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.pink-tulips {
+    width: 450px;
+}
+
+.banner-title {
+    color: #272727;
+    font-size: 55px;
+    font-weight: 800;
+    font-family: 'Lato', sans-serif;
+}
+
+.banner-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.button-primary {
+    margin-top: 25px;
+    padding: 18px 38px;
+    background-color: #e55473;
+    border-radius: 5px;
+    border: none;
+    color: white;
+}
+
+.button-primary:hover {
+    cursor: pointer;
+    background-color: #ec1d4a;
+}
+
+.banner-btn-linkup {
+    text-decoration: none;
+    color: white;
+}
+
+/* banner section styles end */
